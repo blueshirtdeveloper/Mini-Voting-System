@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.ts": "typescript",
+        "*.py": "python",
+        "MAIN.C": "cpp"
+    }
+}

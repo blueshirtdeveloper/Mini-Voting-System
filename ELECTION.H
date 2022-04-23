@@ -1,5 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
+// #include<conio.h>
+#include <curses.h>
 #include<string.h>
 #include<stdlib.h>
 
