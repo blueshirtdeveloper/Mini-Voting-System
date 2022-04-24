@@ -3,11 +3,12 @@
 #include<stdlib.h>
 
 #include"candidate.h"
-struct currentValidID{
-    int year;
-    char branch[6];
-    int totalVoters;
-};
+#include"currentvalidid.h"
+// struct currentValidID{
+//     int year;
+//     char branch[6];
+//     int totalVoters;
+// };
 // typedef struct candidate{
 //     int cid;
 //     char cname[20];
