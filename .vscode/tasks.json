@@ -4,7 +4,7 @@
         {
             "label": "make",
             "type": "shell",
-            "command": "./build.mak",
+            "command": "make -f build.mak clean && make -f build.mak",
             "group": "build",
         },
         {

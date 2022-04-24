@@ -21,7 +21,7 @@
             "name": "C Launch",
             "type": "cppdbg",
             "request": "launch",
-        //    "preLaunchTask": "make",
+           "preLaunchTask": "make",
             "program": "${workspaceRoot}/build/run.out",
             "args": [],
             "stopAtEntry": false,
